@@ -1,5 +1,5 @@
 <?php
 
-echo "Test buat branch test";
+echo "Test buat branch";
 
 ?>
